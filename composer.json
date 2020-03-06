@@ -1,5 +1,5 @@
 {
-    "name": "mixdinternet/mconfig",
+    "name": "alexralbino/mconfig",
     "description": "Agrupa os módulos de configuração do Admix",
     "keywords": ["laravel", "cache", "otimização", "audit", "log"],
     "license": "MIT",
@@ -12,11 +12,7 @@
         }
     ],
     "require": {
-        "php": ">=5.5.9",
-        "laravel/framework": "~5.0",
-        "mixdinternet/mcache": "0.2.*",
-        "mixdinternet/maudit": "0.2.*",
-        "mixdinternet/mmails": "0.2.*"
+        "php": ">=7.2"
     },
     "autoload": {
         "psr-4": {
